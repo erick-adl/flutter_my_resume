@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+<img height="480px" src="https://github.com/erick-adl/flutter_my_resume/blob/master/profile_app.gif">
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
